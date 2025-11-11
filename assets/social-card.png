@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#a21caf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <g fill="#ffffff" opacity="0.2">
+    <circle cx="200" cy="120" r="90"/>
+    <circle cx="1050" cy="520" r="140"/>
+    <circle cx="900" cy="200" r="60"/>
+  </g>
+  <g fill="#fff">
+    <text x="80" y="210" font-size="64" font-weight="700" font-family="Arial, Helvetica, sans-serif">MZJ Chemistry Web Calculator</text>
+    <text x="80" y="280" font-size="32" font-family="Arial, Helvetica, sans-serif">Molar Mass • Molarity • Dilution • pH • Ideal Gas Law</text>
+    <text x="80" y="350" font-size="28" font-family="Arial, Helvetica, sans-serif" opacity="0.9">By Dr. Mohd Zuli Jaafar (UiTM)</text>
+  </g>
+</svg>
